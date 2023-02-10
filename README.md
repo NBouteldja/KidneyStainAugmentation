@@ -1,6 +1,6 @@
 # **KidneyStainAugmentation**
 
-This repository represents a python framework to train, evaluate and apply different techniques including Image Registration, Stain Translation, and Stain Augmentation to tackle intra-stain variation, i.e. color variation within a particular stain across different laboratories and centers. In our experiments, we utilized human tissue data sampled from different cohorts including inhouse biopsies and nephrectomies (AC), the *Human BioMolecular Atlas Program* cohort (HuBMAP), the *Kidney Precision Medicine Project* cohort (KPMP), and the *Validation of the Oxford classification of IgA Nephropathy* cohort (VALIGA).
+This repository represents a python framework to train, evaluate and apply CycleGAN-based Stain Augmentation to tackle intra-stain variation, i.e. color variation within a particular stain across different laboratories and centers. In our experiments, we utilized human tissue data sampled from different cohorts including inhouse biopsies and nephrectomies (AC), the *Human BioMolecular Atlas Program* cohort (HuBMAP), the *Kidney Precision Medicine Project* cohort (KPMP), and the *Validation of the Oxford classification of IgA Nephropathy* cohort (VALIGA).
 
 # Installation
 1. Clone this repo using [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git):<br>
